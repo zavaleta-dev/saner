@@ -381,7 +381,7 @@
 	* ------------------------------------------------------ */
 	var ssBackToTop = function() {
 
-		var pxShow  = 6300,         // height on which the button will show
+		var pxShow  = 600,         // height on which the button will show
 		fadeInTime  = 400,         // how slow/fast you want the button to show
 		fadeOutTime = 400,         // how slow/fast you want the button to hide
 		scrollSpeed = 300,         // how slow/fast you want the button to scroll to top. can be a value, 'slow', 'normal' or 'fast'
